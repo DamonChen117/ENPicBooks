@@ -397,6 +397,28 @@
         "Bear Hugs"
       ],
       "order" : 600
+    },
+    {
+      "name" : "兰登分级阅读系列2",
+      "id" : "b6e49ac6f4a988c50a0cb4d21d76618c",
+      "bookIds" : [
+        "Silly Sara",
+        "Beef Stew",
+        "Platypus",
+        "Five Silly Fishermen",
+        "Mice are Nice",
+        "Oh My, Pumpkin Pie",
+        "One Hundred Shoes",
+        "A Dollar for Penny",
+        "Wake up, sun",
+        "Whose Feet",
+        "Mary Clare Likes to Share",
+        "Peanut",
+        "Bones",
+        "My Loose Tooth",
+        "Ready? Set. Raymond"
+      ],
+      "order" : 601
     }
   ],
   "books" : [
@@ -1783,6 +1805,81 @@
     {
       "id" : "Bear Hugs",
       "name" : "Bear Hugs",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Silly Sara",
+      "name" : "Silly Sara",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Beef Stew",
+      "name" : "Beef Stew",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Platypus",
+      "name" : "Platypus",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Silly Fishermen",
+      "name" : "Five Silly Fishermen",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Mice are Nice",
+      "name" : "Mice are Nice",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Oh My, Pumpkin Pie",
+      "name" : "Oh My, Pumpkin Pie",
+      "newVersion" : 2
+    },
+    {
+      "id" : "One Hundred Shoes",
+      "name" : "One Hundred Shoes",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Dollar for Penny",
+      "name" : "A Dollar for Penny",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Wake up, sun",
+      "name" : "Wake up, sun",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Whose Feet",
+      "name" : "Whose Feet",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Mary Clare Likes to Share",
+      "name" : "Mary Clare Likes to Share",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Peanut",
+      "name" : "Peanut",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Bones",
+      "name" : "Bones",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Loose Tooth",
+      "name" : "My Loose Tooth",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Ready? Set. Raymond",
+      "name" : "Ready? Set. Raymond",
       "newVersion" : 2
     },
     {
