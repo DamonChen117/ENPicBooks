@@ -275,6 +275,28 @@
       "order" : 300
     },
     {
+      "name" : "牛津阅读树第二级",
+      "id" : "11955206244c6950bd4bd59b732ab608",
+      "bookIds" : [
+        "The Toy's Party",
+        "New Trainers",
+        "A New Dog",
+        "What a Bad Dog",
+        "The Go-kart",
+        "The Dream",
+        "Floppy's Bath",
+        "The Baby-sitter",
+        "The Water Fight",
+        "Kipper's Balloon",
+        "Spots_aa0ace347a511e67d9640ba57285809f",
+        "Kipper's Birthday",
+        "Kipper's Laces",
+        "The Wobbly Tooth",
+        "The Foggy Day"
+      ],
+      "order" : 301
+    },
+    {
       "name" : "小饼干系列丛书",
       "id" : "de86378156a3b16c205ae4ba92f3a401",
       "bookIds" : [
@@ -364,7 +386,7 @@
         "Flap, Flap, Fly",
         "At the Pond",
         "Going on a Train Ride",
-        "Spots",
+        "Spots_20e586f4da0419c1974f17c2659a1b3c",
         "Playing with Blocks",
         "Drawing",
         "Helping",
@@ -1378,7 +1400,7 @@
       "newVersion" : 2
     },
     {
-      "id" : "Spots",
+      "id" : "Spots_20e586f4da0419c1974f17c2659a1b3c",
       "name" : "Spots",
       "newVersion" : 2
     },
@@ -1890,7 +1912,7 @@
     {
       "id" : "Whose Feet",
       "name" : "Whose Feet",
-      "newVersion" : 2 
+      "newVersion" : 2
     },
     {
       "id" : "Mary Clare Likes to Share",
@@ -1990,6 +2012,81 @@
     {
       "id" : "Unicorn Wings",
       "name" : "Unicorn Wings",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Toy's Party",
+      "name" : "The Toy's Party",
+      "newVersion" : 2
+    },
+    {
+      "id" : "New Trainers",
+      "name" : "New Trainers",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A New Dog",
+      "name" : "A New Dog",
+      "newVersion" : 2
+    },
+    {
+      "id" : "What a Bad Dog",
+      "name" : "What a Bad Dog",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Go-kart",
+      "name" : "The Go-kart",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Dream",
+      "name" : "The Dream",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Floppy's Bath",
+      "name" : "Floppy's Bath",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Baby-sitter",
+      "name" : "The Baby-sitter",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Water Fight",
+      "name" : "The Water Fight",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's Balloon",
+      "name" : "Kipper's Balloon",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Spots_aa0ace347a511e67d9640ba57285809f",
+      "name" : "Spots",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's Birthday",
+      "name" : "Kipper's Birthday",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's Laces",
+      "name" : "Kipper's Laces",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Wobbly Tooth",
+      "name" : "The Wobbly Tooth",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Foggy Day",
+      "name" : "The Foggy Day",
       "newVersion" : 2
     },
     {
