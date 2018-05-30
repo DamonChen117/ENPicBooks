@@ -80,6 +80,31 @@
       "order" : 102
     },
     {
+      "name" : "经典绘本第四季",
+      "id" : "ffa06b90a62ab86c1a335f4d9cf6b8b",
+      "bookIds" : [
+        "Row Row Row Your Boat",
+        "Mouse Paint",
+        "The Itsy Bitsy Spider",
+        "Handa's Surprise",
+        "Over in the Meadow",
+        "The Blue Balloon",
+        "Click,Clack,Moo Cows That Type",
+        "The Mixed-Up Chameleon",
+        "Noisy Nora",
+        "The Runaway Bunny",
+        "On Market Street",
+        "I Am Water",
+        "Tomorrow's Alphabet",
+        "I Am Fire",
+        "Chicka Chicka Boom Boom",
+        "I Am an Apple",
+        "Dr. Seuss's ABC",
+        "I'm a Seed"
+      ],
+      "order" : 103
+    },
+    {
       "name" : "廖彩杏书单第一阶段",
       "id" : "a75d6b6ca5280813398d0de2103ae82a",
       "bookIds" : [
@@ -292,9 +317,91 @@
         "Kipper's Birthday",
         "Kipper's Laces",
         "The Wobbly Tooth",
-        "The Foggy Day"
+        "The Foggy Day",
+        "Biff's Aeroplane",
+        "Floppy the Hero",
+        "The Chase",
+        "The Big Egg",
+        "Poor Floppy",
+        "Put it Back",
+        "In a Bit",
+        "A Present for Mum",
+        "The Hole in the Sand",
+        "Monkey Trick",
+        "Hey Presto",
+        "It's the Weather",
+        "Naughty Children",
+        "A Sinking Feeling",
+        "Creepy-crawly",
+        "What Is It",
+        "The Lost Puppy",
+        "New Trees",
+        "Up and Down",
+        "The Little Dragon",
+        "The Band",
+        "The Odd Egg",
+        "Out",
+        "Fire",
+        "The Gull's Picnic",
+        "Red Nose",
+        "The Ball Pit",
+        "Got a Job",
+        "The New Gingerbread Man",
+        "Hiccups",
+        "Gorilla on the Run",
+        "A Big Bunch of Flowers",
+        "Catch It"
       ],
       "order" : 301
+    },
+    {
+      "name" : "牛津阅读树第三级",
+      "id" : "a6557719f866b23d27f7ce996365f821",
+      "bookIds" : [
+        "The Duck Race",
+        "Sniff",
+        "Pond Dipping",
+        "The Ice Rink",
+        "The Mud Bath",
+        "The Steel Band",
+        "On the Sand",
+        "The Egg Hunt",
+        "Nobody Wanted to Play",
+        "A Cat in the Tree",
+        "The Rope Swing",
+        "By the Stream",
+        "Kipper the Clown",
+        "Stawberry Jam",
+        "The Jumble Sale",
+        "At the Seaside",
+        "Kipper's Idea",
+        "The Snowman_7b228e03d9b312f6cb58db68cdebb20a",
+        "The Barbecue",
+        "The Carnival",
+        "At the Pool",
+        "Bull's-eye",
+        "Book Week",
+        "The Cold Day",
+        "Midge in Hospital",
+        "Joe and the Bike",
+        "Roy and the Budgie",
+        "Midge and the Eggs",
+        "Pip at the Zoo",
+        "Pip and the Little Monkey",
+        "Floppy and the Puppets",
+        "Monkeys on the Car",
+        "Dragons",
+        "The Enormous Picture",
+        "Gran and the Go-karts",
+        "Helicopter Rescue",
+        "King of the Castle",
+        "Bug Hunt",
+        "Mister Haggis",
+        "A Walk in the Sun",
+        "Green Sheets",
+        "Road Burner"
+      ],
+      "order" : 302
     },
     {
       "name" : "小饼干系列丛书",
@@ -424,7 +531,7 @@
         "Ducks Go Vroom",
         "I Like Stars",
         "I Like Bugs",
-        "The Snowman",
+        "The Snowman_4c0636f534b456d655131dbfe25b8fd1",
         "The Snowball",
         "Tae Kwon Do",
         "Corn Aplenty",
@@ -1825,7 +1932,7 @@
       "newVersion" : 2
     },
     {
-      "id" : "The Snowman",
+      "id" : "The Snowman_4c0636f534b456d655131dbfe25b8fd1",
       "name" : "The Snowman",
       "newVersion" : 2
     },
@@ -2087,6 +2194,381 @@
     {
       "id" : "The Foggy Day",
       "name" : "The Foggy Day",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biff's Aeroplane",
+      "name" : "Biff's Aeroplane",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Floppy the Hero",
+      "name" : "Floppy the Hero",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Chase",
+      "name" : "The Chase",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Big Egg",
+      "name" : "The Big Egg",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Poor Floppy",
+      "name" : "Poor Floppy",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Put it Back",
+      "name" : "Put it Back",
+      "newVersion" : 2
+    },
+    {
+      "id" : "In a Bit",
+      "name" : "In a Bit",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Present for Mum",
+      "name" : "A Present for Mum",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Hole in the Sand",
+      "name" : "The Hole in the Sand",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Monkey Trick",
+      "name" : "Monkey Trick",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hey Presto",
+      "name" : "Hey Presto",
+      "newVersion" : 2
+    },
+    {
+      "id" : "It's the Weather",
+      "name" : "It's the Weather",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Naughty Children",
+      "name" : "Naughty Children",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Sinking Feeling",
+      "name" : "A Sinking Feeling",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Creepy-crawly",
+      "name" : "Creepy-crawly",
+      "newVersion" : 2
+    },
+    {
+      "id" : "What Is It",
+      "name" : "What Is It",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Lost Puppy",
+      "name" : "The Lost Puppy",
+      "newVersion" : 2
+    },
+    {
+      "id" : "New Trees",
+      "name" : "New Trees",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Up and Down",
+      "name" : "Up and Down",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Little Dragon",
+      "name" : "The Little Dragon",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Band",
+      "name" : "The Band",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Odd Egg",
+      "name" : "The Odd Egg",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Out",
+      "name" : "Out",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Fire",
+      "name" : "Fire",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Gull's Picnic",
+      "name" : "The Gull's Picnic",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Red Nose",
+      "name" : "Red Nose",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Ball Pit",
+      "name" : "The Ball Pit",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Got a Job",
+      "name" : "Got a Job",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The New Gingerbread Man",
+      "name" : "The New Gingerbread Man",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hiccups",
+      "name" : "Hiccups",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Gorilla on the Run",
+      "name" : "Gorilla on the Run",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Big Bunch of Flowers",
+      "name" : "A Big Bunch of Flowers",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Catch It",
+      "name" : "Catch It",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Duck Race",
+      "name" : "The Duck Race",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Sniff",
+      "name" : "Sniff",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Pond Dipping",
+      "name" : "Pond Dipping",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Ice Rink",
+      "name" : "The Ice Rink",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Mud Bath",
+      "name" : "The Mud Bath",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Steel Band",
+      "name" : "The Steel Band",
+      "newVersion" : 2
+    },
+    {
+      "id" : "On the Sand",
+      "name" : "On the Sand",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Egg Hunt",
+      "name" : "The Egg Hunt",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Nobody Wanted to Play",
+      "name" : "Nobody Wanted to Play",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Cat in the Tree",
+      "name" : "A Cat in the Tree",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Rope Swing",
+      "name" : "The Rope Swing",
+      "newVersion" : 2
+    },
+    {
+      "id" : "By the Stream",
+      "name" : "By the Stream",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper the Clown",
+      "name" : "Kipper the Clown",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Stawberry Jam",
+      "name" : "Stawberry Jam",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Jumble Sale",
+      "name" : "The Jumble Sale",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At the Seaside",
+      "name" : "At the Seaside",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's Idea",
+      "name" : "Kipper's Idea",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Snowman_7b228e03d9b312f6cb58db68cdebb20a",
+      "name" : "The Snowman",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Barbecue",
+      "name" : "The Barbecue",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Carnival",
+      "name" : "The Carnival",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At the Pool",
+      "name" : "At the Pool",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Bull's-eye",
+      "name" : "Bull's-eye",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Book Week",
+      "name" : "Book Week",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Cold Day",
+      "name" : "The Cold Day",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Midge in Hospital",
+      "name" : "Midge in Hospital",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Joe and the Bike",
+      "name" : "Joe and the Bike",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Roy and the Budgie",
+      "name" : "Roy and the Budgie",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Midge and the Eggs",
+      "name" : "Midge and the Eggs",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Pip at the Zoo",
+      "name" : "Pip at the Zoo",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Pip and the Little Monkey",
+      "name" : "Pip and the Little Monkey",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Floppy and the Puppets",
+      "name" : "Floppy and the Puppets",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Monkeys on the Car",
+      "name" : "Monkeys on the Car",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Dragons",
+      "name" : "Dragons",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Enormous Picture",
+      "name" : "The Enormous Picture",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Gran and the Go-karts",
+      "name" : "Gran and the Go-karts",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Helicopter Rescue",
+      "name" : "Helicopter Rescue",
+      "newVersion" : 2
+    },
+    {
+      "id" : "King of the Castle",
+      "name" : "King of the Castle",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Bug Hunt",
+      "name" : "Bug Hunt",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Mister Haggis",
+      "name" : "Mister Haggis",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Walk in the Sun",
+      "name" : "A Walk in the Sun",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Green Sheets",
+      "name" : "Green Sheets",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Road Burner",
+      "name" : "Road Burner",
       "newVersion" : 2
     },
     {
